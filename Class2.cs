@@ -10,5 +10,6 @@ namespace DMS.Demo.Git.Branching.GitHubFlow.MergePR.Bad02
     {
         // Branch: feature/foo | Commit #1
         // Branch: feature/foo | Commit #4
+        // Branch: feature/foo | Commit #5
     }
 }
